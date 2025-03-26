@@ -30,6 +30,7 @@ food(chicken).
 ```
 
 ### Output:
+![Screenshot 2025-03-19 111719](https://github.com/user-attachments/assets/50998768-9e43-4624-aae3-6985b66518c6)
 
 ### Task 2:
 Consider the following facts and represent them in predicate form: <br>              
@@ -49,6 +50,7 @@ easy(X) :- have_fun_dept(X).
 ```
 
 ### Output:
+![Screenshot 2025-03-19 111947](https://github.com/user-attachments/assets/79df4021-a042-4870-be59-9280b29661cd)
 
 ### Task 3:
 Consider the statement <br> 
@@ -67,6 +69,7 @@ american(west).
 ```
 
 ### Output:
+![Screenshot 2025-03-19 112058](https://github.com/user-attachments/assets/8f85793e-58fe-4466-8d89-43cd95c8adb0)
 
 ### Result:
 Thus the prolog programs were executed successfully and the answer of query was found.
