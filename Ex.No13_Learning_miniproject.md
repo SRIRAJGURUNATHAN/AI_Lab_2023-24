@@ -5,6 +5,7 @@
 To write a program to train the classifier for user identification using walking activity data collected from smartphone accelerometers.
 
 ###  Algorithm:
+```
 1.Load and extract accelerometer data from all participants’ CSV files.
 2.Segment the data using a sliding window to create fixed-length sequences.
 3.Label each sequence based on the participant ID.
@@ -12,6 +13,7 @@ To write a program to train the classifier for user identification using walking
 5.Build a 1D ResNet model with residual blocks for time-series classification.
 6.Train the model on the training data using categorical cross-entropy loss.
 7.Evaluate the model on test data and predict sample labels.
+```
 
 ### Program:
 ```
