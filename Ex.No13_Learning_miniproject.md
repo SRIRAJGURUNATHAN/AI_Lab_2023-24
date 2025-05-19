@@ -6,7 +6,7 @@ To write a program to train the classifier for user identification using walking
 
 ###  Algorithm:
 ```
-1.Load and extract accelerometer data from all participants’ CSV files.
+1.Load and extract accelerometer data from all participants CSV files.
 2.Segment the data using a sliding window to create fixed-length sequences.
 3.Label each sequence based on the participant ID.
 4.Split the dataset into training and test sets after one-hot encoding labels.
